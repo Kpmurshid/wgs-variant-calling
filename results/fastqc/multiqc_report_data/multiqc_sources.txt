@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR062634_2.fil	/home/murshid/NGS/wgs-variant-calling/scripts/results/fastqc/SRR062634_2.filt_fastqc.zip
+FastQC	all_sections	SRR062634_1.fil	/home/murshid/NGS/wgs-variant-calling/scripts/results/fastqc/SRR062634_1.filt_fastqc.zip

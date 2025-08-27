@@ -1,0 +1,29 @@
+# Ignore raw FASTQ files
+data/*.fastq.gz
+
+# Ignore reference genome and index files
+data/*.fa
+data/*.fai
+data/*.amb
+data/*.ann
+data/*.bwt
+data/*.pac
+data/*.sa
+
+# Ignore large BAM and VCF files
+results/bam/*.bam
+results/bam/*.bai
+results/vcf/*.vcf.gz
+results/vcf/*.vcf.gz.csi
+
+# Ignore plots and gnuplot scripts if not needed
+results/vcf/plots/*
+results/alignment_stats/*.gp
+results/alignment_stats/*.png
+
+# Ignore compressed reports if large
+results/fastqc/*.zip
+
+# Ignore Python bytecode, temp files
+__pycache__/
+*.log

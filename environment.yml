@@ -1,0 +1,14 @@
+name: wgs-pipeline
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fastqc
+  - multiqc
+  - bwa
+  - samtools
+  - bcftools
+  - htslib
+  - openjdk
+  - gatk4
+

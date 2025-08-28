@@ -122,4 +122,4 @@ MIT License
 
 ## **Citation**
 
-Please cite relevant tools: BWA, Samtools, BCFtools, FastQC, MultiQC.
+Tools: BWA, Samtools, BCFtools, FastQC, MultiQC.
